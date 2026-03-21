@@ -10,7 +10,6 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: null
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

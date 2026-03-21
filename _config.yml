@@ -1,0 +1,57 @@
+title: The Stoic Path
+description: >-
+  Timeless wisdom for modern life. Exploring Stoic philosophy, psychology,
+  and personal growth to help you build resilience, clarity, and purpose.
+url: "https://pvega23.github.io"
+baseurl: "/stoic-blog"
+author:
+  name: The Stoic Path
+  email: ""
+
+# Build settings
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalink structure (SEO-friendly)
+permalink: /:categories/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "The Stoic Path"
+
+# Pagination
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - affiliate_links.json
+  - README.md
+
+# Analytics (add your Google Analytics ID)
+google_analytics: ""
+
+# AdSense (add your AdSense publisher ID)
+google_adsense: ""
+
+# Social
+social:
+  youtube_stoic: "https://youtube.com/@stoicwisdom"
+  youtube_psych: "https://youtube.com/@psychologytips"
+  github: "https://github.com/pvega23"

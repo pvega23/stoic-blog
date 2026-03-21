@@ -1,0 +1,28 @@
+---
+layout: page
+title: Topics
+permalink: /categories/
+description: "Browse articles by topic - Stoic Philosophy, Psychology, Book Reviews, and Personal Growth."
+---
+
+{% assign categories = "stoic-philosophy,psychology,book-reviews,personal-growth" | split: "," %}
+{% assign category_names = "Stoic Philosophy,Psychology,Book Reviews,Personal Growth" | split: "," %}
+
+{% for i in (0..3) %}
+{% assign cat = categories[i] %}
+{% assign cat_name = category_names[i] %}
+
+<div class="category-section" id="{{ cat }}">
+  <h2>{{ cat_name }}</h2>
+  <ul>
+    {% for post in site.posts %}
+      {% if post.categories contains cat_name or post.categories contains cat %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%b %Y" }}</span>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}

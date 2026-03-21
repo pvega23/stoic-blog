@@ -1,0 +1,137 @@
+{
+  "amazon_tag": "stoicpath-20",
+  "books": {
+    "meditations": {
+      "title": "Meditations by Marcus Aurelius",
+      "url": "https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255?tag=stoicpath-20",
+      "author": "Marcus Aurelius",
+      "category": "stoic-philosophy"
+    },
+    "letters_from_a_stoic": {
+      "title": "Letters from a Stoic by Seneca",
+      "url": "https://www.amazon.com/Letters-Stoic-Penguin-Classics-Seneca/dp/0140442103?tag=stoicpath-20",
+      "author": "Seneca",
+      "category": "stoic-philosophy"
+    },
+    "discourses": {
+      "title": "Discourses and Selected Writings by Epictetus",
+      "url": "https://www.amazon.com/Discourses-Selected-Writings-Penguin-Classics/dp/0140449469?tag=stoicpath-20",
+      "author": "Epictetus",
+      "category": "stoic-philosophy"
+    },
+    "obstacle_is_the_way": {
+      "title": "The Obstacle Is the Way by Ryan Holiday",
+      "url": "https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358?tag=stoicpath-20",
+      "author": "Ryan Holiday",
+      "category": "stoic-philosophy"
+    },
+    "ego_is_the_enemy": {
+      "title": "Ego Is the Enemy by Ryan Holiday",
+      "url": "https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818?tag=stoicpath-20",
+      "author": "Ryan Holiday",
+      "category": "stoic-philosophy"
+    },
+    "stillness_is_the_key": {
+      "title": "Stillness Is the Key by Ryan Holiday",
+      "url": "https://www.amazon.com/Stillness-Key-Ryan-Holiday/dp/0525538585?tag=stoicpath-20",
+      "author": "Ryan Holiday",
+      "category": "stoic-philosophy"
+    },
+    "daily_stoic": {
+      "title": "The Daily Stoic by Ryan Holiday",
+      "url": "https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736?tag=stoicpath-20",
+      "author": "Ryan Holiday",
+      "category": "stoic-philosophy"
+    },
+    "mans_search_for_meaning": {
+      "title": "Man's Search for Meaning by Viktor Frankl",
+      "url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273?tag=stoicpath-20",
+      "author": "Viktor Frankl",
+      "category": "psychology"
+    },
+    "thinking_fast_and_slow": {
+      "title": "Thinking, Fast and Slow by Daniel Kahneman",
+      "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555?tag=stoicpath-20",
+      "author": "Daniel Kahneman",
+      "category": "psychology"
+    },
+    "atomic_habits": {
+      "title": "Atomic Habits by James Clear",
+      "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=stoicpath-20",
+      "author": "James Clear",
+      "category": "personal-growth"
+    },
+    "subtle_art": {
+      "title": "The Subtle Art of Not Giving a F*ck by Mark Manson",
+      "url": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=stoicpath-20",
+      "author": "Mark Manson",
+      "category": "personal-growth"
+    },
+    "influence": {
+      "title": "Influence by Robert Cialdini",
+      "url": "https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion/dp/0062937650?tag=stoicpath-20",
+      "author": "Robert Cialdini",
+      "category": "psychology"
+    },
+    "flow": {
+      "title": "Flow by Mihaly Csikszentmihalyi",
+      "url": "https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202?tag=stoicpath-20",
+      "author": "Mihaly Csikszentmihalyi",
+      "category": "psychology"
+    },
+    "how_to_win_friends": {
+      "title": "How to Win Friends and Influence People by Dale Carnegie",
+      "url": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034?tag=stoicpath-20",
+      "author": "Dale Carnegie",
+      "category": "personal-growth"
+    },
+    "power_of_now": {
+      "title": "The Power of Now by Eckhart Tolle",
+      "url": "https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808?tag=stoicpath-20",
+      "author": "Eckhart Tolle",
+      "category": "personal-growth"
+    },
+    "7_habits": {
+      "title": "The 7 Habits of Highly Effective People by Stephen Covey",
+      "url": "https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274?tag=stoicpath-20",
+      "author": "Stephen Covey",
+      "category": "personal-growth"
+    },
+    "grit": {
+      "title": "Grit by Angela Duckworth",
+      "url": "https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116?tag=stoicpath-20",
+      "author": "Angela Duckworth",
+      "category": "psychology"
+    },
+    "mindset": {
+      "title": "Mindset by Carol Dweck",
+      "url": "https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322?tag=stoicpath-20",
+      "author": "Carol Dweck",
+      "category": "psychology"
+    },
+    "happiness_hypothesis": {
+      "title": "The Happiness Hypothesis by Jonathan Haidt",
+      "url": "https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020?tag=stoicpath-20",
+      "author": "Jonathan Haidt",
+      "category": "psychology"
+    },
+    "courage_to_be_disliked": {
+      "title": "The Courage to Be Disliked by Ichiro Kishimi",
+      "url": "https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274?tag=stoicpath-20",
+      "author": "Ichiro Kishimi",
+      "category": "personal-growth"
+    }
+  },
+  "services": {
+    "audible": {
+      "name": "Audible",
+      "url": "https://www.amazon.com/dp/B00NB86OYE?tag=stoicpath-20",
+      "description": "Get your first audiobook free with Audible"
+    },
+    "kindle_unlimited": {
+      "name": "Kindle Unlimited",
+      "url": "https://www.amazon.com/kindle-dbs/hz/subscribe/ku?tag=stoicpath-20",
+      "description": "Read unlimited books with Kindle Unlimited"
+    }
+  }
+}

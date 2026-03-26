@@ -7,16 +7,24 @@
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="{{ site.author.name }}">
 
+  <!-- Favicons -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/all/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/all/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/images/all/apple-touch-icon.png">
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/all/favicon.ico">
+
   <!-- Open Graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/images/og-image.png">
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 
-  <!-- Twitter -->
+  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/images/twitter-image.png">
 
   <!-- Canonical -->
   <link rel="canonical" href="{{ page.url | absolute_url }}">
